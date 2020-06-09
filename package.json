@@ -1,6 +1,6 @@
 {
   "homepage": "http://yurishevtsov.github.io/reactsite",
-  "name": "yurishevtsov.github.io-r",
+  "name": "react-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,8 @@
   },
   "devDependencies": {
     "gh-pages": "^3.0.0"
+  },
+  "engines": {
+    "yarn": "YARN NO LONGER USED - use npm instead."
   }
 }
